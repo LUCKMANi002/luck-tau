@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    box-shadow:5px 5px 15px black ;
+    margin:30px auto;
+    padding: 20px;
+ 
+}
+
+h1,h2{
+    color: #0000ffb9;
+    font-size: xx-large;
+    font-family: lucida;
+
+}
+
+button{
+    padding:10px 40px;
+    font-weight: bold;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: #0000ff95;
+    margin-top: 20px;
+  
+}
